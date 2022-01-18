@@ -5,5 +5,6 @@ public class Test {
 	public void name() {
 		System.out.print("Ramesh");
 		System.out.println("Ramesh Reddy");
+		System.out.println("new Changes");
 	}
 }
